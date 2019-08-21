@@ -1,4 +1,4 @@
 channel_sources:
-  - nsls2forge,defaults
+  - nsls2forge,defaults,free
 channel_targets:
   - nsls2forge main

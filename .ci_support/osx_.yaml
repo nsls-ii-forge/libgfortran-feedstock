@@ -1,7 +1,7 @@
 MACOSX_DEPLOYMENT_TARGET:
 - '10.9'
 channel_sources:
-- nsls2forge,defaults
+- nsls2forge,defaults,free
 channel_targets:
 - nsls2forge main
 macos_machine:

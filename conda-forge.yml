@@ -4,6 +4,7 @@ channels:
   sources:
     - nsls2forge
     - defaults
+    - free
   targets:
     - [nsls2forge, main]
 compiler_stack: comp7
