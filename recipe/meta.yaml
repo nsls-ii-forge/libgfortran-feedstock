@@ -8,7 +8,7 @@ package:
   # This is hacked to match the higher version on defaults to make conda-forge 
   # more compatible with defaults.
   # The actual libs are the same.
-  version: 3.0.1
+  version: 4.0.0
 
 build:
   number: 0
