@@ -1,4 +1,4 @@
 channel_sources:
-    - nsls2forge,defaults,https://repo.anaconda.com/pkgs/free/osx-64/
+  - nsls2forge,defaults,https://repo.anaconda.com/pkgs/free/osx-64/
 channel_targets:
   - nsls2forge main
