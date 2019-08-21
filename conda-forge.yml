@@ -4,7 +4,7 @@ channels:
   sources:
     - nsls2forge
     - defaults
-    - conda-forge
+    - https://repo.anaconda.com/pkgs/free/osx-64/
   targets:
     - [nsls2forge, main]
 compiler_stack: comp7
