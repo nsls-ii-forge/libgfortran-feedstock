@@ -4,7 +4,7 @@ channels:
   sources:
     - nsls2forge
     - defaults
-    - free
+    - conda-forge
   targets:
     - [nsls2forge, main]
 compiler_stack: comp7
