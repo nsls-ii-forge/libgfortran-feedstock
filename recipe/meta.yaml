@@ -62,9 +62,3 @@ about:
   summary: Fortran libraries from the GNU Compiler Collection
   license: GPL 3 (with GCC Runtime Library Exception 3.1)
   license_file: COPYING3.LIB
-
-extra:
-  recipe-maintainers:
-    - jakirkham
-    - msarahan
-    - pelson
