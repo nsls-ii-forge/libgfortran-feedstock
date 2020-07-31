@@ -4,10 +4,9 @@ channels:
   sources:
     - nsls2forge
     - defaults
-    - https://repo.anaconda.com/pkgs/free/osx-64/
   targets:
     - [nsls2forge, main]
-compiler_stack: comp7
+channel_priority: flexible
 azure:
   user_or_org: nsls2forge
   project_name: nsls2forge
